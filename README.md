@@ -4,4 +4,4 @@
 
 An example GitHub first repository
 
-Some Descriptions
+Some more descriptions
