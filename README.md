@@ -3,5 +3,5 @@
 ##Section header
 
 An example GitHub first repository
-\nSome Descriptions
-/nSome Descriptions
+
+Some Descriptions
