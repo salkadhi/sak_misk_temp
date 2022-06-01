@@ -4,4 +4,3 @@
 
 An example GitHub first repository
 
-Some Descriptions
